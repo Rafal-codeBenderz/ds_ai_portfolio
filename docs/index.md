@@ -63,4 +63,4 @@ Współczesne projekty Data Science wymagają wykorzystania wielu nowoczesnych n
 
 🌐 GitHub: [https://github.com/Rafal-codeBenderz](https://github.com/Rafal-codeBenderz)
 
-🔗 LinkedIn: [https://www.linkedin.com/in/katarzynagustak/](https://www.linkedin.com/in/katarzynagustak/)
+🔗 LinkedIn: [https://www.linkedin.com/in/rafał-benderz/](https://www.linkedin.com/in/rafał-benderz/)

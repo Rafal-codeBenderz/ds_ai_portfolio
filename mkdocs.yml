@@ -3,8 +3,8 @@ site_author: Rafał Benderz
 site_description: >
   Portfolio moich projektów z Data Science i AI!
 
-repo_name: Rafal-codeBenderz/ds_portfolio
-repo_url: https://github.com/Rafal-codeBenderz/ds_portfolio.git
+repo_name: Rafal-codeBenderz/ds_ai_portfolio
+repo_url: https://github.com/Rafal-codeBenderz/ds_ai_portfolio.git
 
 theme:
   name: material
