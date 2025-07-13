@@ -1,0 +1,21 @@
+site_name: Moje projekty
+site_author: Rafał Benderz
+site_description: >
+  Portfolio moich projektów z Data Science i AI!
+
+repo_name: Rafal-codeBenderz/ds_portfolio
+repo_url: https://github.com/Rafal-codeBenderz/ds_portfolio.git
+
+theme:
+  name: material
+  palette:
+    primary: blue
+
+nav:
+  - 🏠 Start: index.md
+  - 📊 Analizy:    
+     -  Titanic (analiza przeżywalności): Analizy/Titanic/index.md
+     -  Iris (klasyfikacja kwiatów): Analizy/Iris/index.md
+  - 💻 Aplikacje: 
+      -  Półmaraton: Aplikacje/Maraton/index.md
+      -  Kolorowanka: Aplikacje/Kolorowanka/index.md
