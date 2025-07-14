@@ -1,6 +1,6 @@
 site_name: Moje projekty
 site_author: Rafał Benderz
-site_url: https://github.com/Rafal-codeBenderz.github.io/ds_ai_portfolio
+site_url: https://Rafal-codeBenderz.github.io/ds_ai_portfolio
 site_description: >-
     Portfolio moich wspaniałych projektów z Data Science i AI!
 repo_name: Rafal-codeBenderz/ds_ai_portfolio
@@ -14,7 +14,6 @@ theme:
 markdown_extensions:
   - attr_list
   - md_in_html 
-  - pymdownx.blocks.caption
   
 nav:
 - Start: index.md
