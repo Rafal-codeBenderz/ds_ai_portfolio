@@ -11,11 +11,15 @@ theme:
   palette:
     primary: blue
 
+markdown_extensions:
+  - attr_list
+  - md_in_html 
+  
 nav:
-  - 🏠 Start: index.md
-  - 📊 Analizy:    
-     -  Titanic (analiza przeżywalności): Analizy/Titanic/index.md
-     -  Iris (klasyfikacja kwiatów): Analizy/Iris/index.md
-  - 💻 Aplikacje:
-      -  Półmaraton: Aplikacje/Maraton/index.md
-      -  Kolorowanka_Fantazja: Aplikacje/Kolorowanka_Fantazja/index.md 
+- Start: index.md
+- Obecny projekt:
+  - "Półmaraton": Maraton/index.md
+- Poprzednie projekty:
+  - "Kolorowanka_Fantazja": Kolorowanka_Fantazja/index.md
+  - "Iris (klasyfikacja kwiatów)": Iris/index.md
+  - "Titanic (analiza przeżywalności)": Titanic/index.md
