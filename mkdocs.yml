@@ -16,6 +16,6 @@ nav:
   - 📊 Analizy:    
      -  Titanic (analiza przeżywalności): Analizy/Titanic/index.md
      -  Iris (klasyfikacja kwiatów): Analizy/Iris/index.md
-  - 💻 Aplikacje: 
+  - 💻 Aplikacje:
+      -  Kolorowanka: Aplikacje/Kolorowanka/index.md 
       -  Półmaraton: Aplikacje/Maraton/index.md
-      -  Kolorowanka Fantazja: Aplikacje/Kolorowanka/index.md
