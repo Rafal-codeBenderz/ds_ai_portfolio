@@ -1,33 +1,41 @@
-# Rafał Benderz
+# Portfolio
 
-Buduję narzędzia z AI pod konkretną robotę, nie dema „chat z GPT”. Model szkicuje, człowiek zatwierdza. Jak nie ma ceny, godziny albo źródła — ma napisać że sprawdzi, nie zmyślać.
+#### Rafał Benderz
 
-Zrobiłem to w **[Tarczy](Aplikacje/Tarcza/index.md)** (lada, SMS, tabela zamówienia, HITL, n8n) i w **[HistoryChat](Aplikacje/HistoryChat/index.md)** (24 postaci, odpowiedź z plików przez RAG / FAISS, jak brak fragmentu — odmowa). Obok tego własne, niepubliczne eksperymenty ML: obraz, cechy, ewaluacja. Wiem, że ładny wynik na teście to nie to samo co wartość w robocie. Wcześniej: **[Maraton](Aplikacje/Maraton/index.md)** — predykcja czasu na danych z Wrocławia, był deploy.
+Buduję narzędzia AI do konkretnej pracy: szkic do zatwierdzenia, potem decyzja człowieka. Jeśli w wątku nie ma ceny, terminu albo źródła, model ma to zaznaczyć — nie uzupełniać z głowy.
 
-Nie mam etatu w IT ani wdrożenia u klienta na serwerze. To własne projekty od 2025, plus kurs (prompty, n8n, skille). Nie ukrywam. Na spotkaniu odpalę Tarcza albo HistoryChat i pokażę, bez slajdów.
+## O mnie
 
-Najchętniej składam szybko działający kawałek i ucinam to, czego nie potrzeba. Jak nie wiem po co, pytam, zamiast dokładać kod. Recenzję biorę; nie bronię pliku dla zasady. Szukam współpracy przy AI, automatyzacji i danych — od zaraz. Stawkę chętnie ustalę, jak będzie widać, co wnoszę.
+Szukam współpracy przy projektach AI, automatyzacji i danych. Pracuję zdalnie z Polski, mogę zacząć od zaraz.
 
-Praca zdalna, Polska.
+Główne realizacje: **[Tarcza](Aplikacje/Tarcza/index.md)** — asystent przy ladzie (szkic SMS, tabela zamówienia, pamięć sprawy, zatwierdzenie zanim cokolwiek wyjdzie do klienta) oraz **[HistoryChat](Aplikacje/HistoryChat/index.md)** — czat z 24 postaciami historycznymi, odpowiedzi z lokalnych źródeł (RAG, FAISS); przy braku fragmentu model odmawia. Prowadzę też własne, niepubliczne eksperymenty ML (analiza obrazu, cechy, ewaluacja). Wcześniej: **[Maraton](Aplikacje/Maraton/index.md)** — predykcja czasu półmaratonu na danych z Wrocławia, aplikacja wdrożona na DigitalOcean.
 
-## Projekty
+Nie mam etatu w IT ani wdrożenia produkcyjnego u klienta. To projekty własne od 2025 oraz kurs (n8n, prompty, skille). Na rozmowie mogę uruchomić Tarcza albo HistoryChat i przejść po działaniu.
 
-| Projekt | O co chodzi |
-|---|---|
-| [Tarcza](Aplikacje/Tarcza/index.md) | Wklejka SMS → szkic odpowiedzi, tabela zamówienia, „co wisi”. Nic nie leci do klienta samo. |
-| [HistoryChat](Aplikacje/HistoryChat/index.md) | Czat z 24 postaciami. Odpowiedź z lokalnych źródeł (RAG / FAISS). Jak brak fragmentu — odmowa. |
-| [Maraton](Aplikacje/Maraton/index.md) | Predykcja czasu półmaratonu na danych z Wrocławia + rekomendacja treningowa. |
-
-Starsze ćwiczenia z kursu (Iris, Titanic, Kolorowanka) są w [archiwum](Archiwum/index.md).
+Wolę szybko dowieźć wąski, działający zakres niż dokładać funkcje „na później”. Jeśli cel zmiany jest niejasny, dopytuję. Przyjmuję recenzję i poprawiam warstwę, zamiast bronić pliku. Stawkę chętnie ustalę po pierwszych zadaniach.
 
 ## Narzędzia
 
-Python, TypeScript, React, Flask, FastAPI, Streamlit, SQLite, OpenAI API, Gemini, FAISS, n8n, scikit-learn, OpenCV, Docker, pytest, Vitest
+**Języki i web:** Python, TypeScript, React, Flask, FastAPI, Express, Streamlit
+
+**AI i dane:** OpenAI API, Gemini, FAISS, n8n, scikit-learn, OpenCV, SQLite
+
+**Testy i środowisko:** pytest, Vitest, Docker
+
+## Projekty
+
+| Projekt | Opis |
+|---|---|
+| [Tarcza](Aplikacje/Tarcza/index.md) | Wklejka SMS → szkic odpowiedzi, tabela zamówienia, „co wisi”. Wysyłka tylko po zatwierdzeniu. |
+| [HistoryChat](Aplikacje/HistoryChat/index.md) | Czat z 24 postaciami. Odpowiedź ze źródeł; brak fragmentu = odmowa. |
+| [Maraton](Aplikacje/Maraton/index.md) | Predykcja czasu półmaratonu (Wrocław 2023–2024) i rekomendacja treningowa. |
+
+Starsze ćwiczenia (Iris, Titanic, Kolorowanka): [archiwum](Archiwum/index.md).
 
 ## Kontakt
 
-📧 Email: [rafabenderz@gmail.com](mailto:rafabenderz@gmail.com)
+📧 [rafabenderz@gmail.com](mailto:rafabenderz@gmail.com)
 
-🌐 GitHub: [https://github.com/Rafal-codeBenderz](https://github.com/Rafal-codeBenderz)
+🌐 [github.com/Rafal-codeBenderz](https://github.com/Rafal-codeBenderz)
 
-🔗 LinkedIn: [https://www.linkedin.com/in/rafał-benderz-492086229/](https://www.linkedin.com/in/rafał-benderz-492086229/)
+🔗 [LinkedIn](https://www.linkedin.com/in/rafał-benderz-492086229/)
