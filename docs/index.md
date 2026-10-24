@@ -16,11 +16,17 @@ Wolę szybko dowieźć wąski, działający zakres niż dokładać funkcje „na
 
 ## Narzędzia
 
-**Języki i web:** Python, TypeScript, React, Flask, FastAPI, Express, Streamlit
+### Języki i aplikacje
+Python, TypeScript, JavaScript, React, Flask, FastAPI, Express, Streamlit, Vite, Tailwind
 
-**AI i dane:** OpenAI API, Gemini, FAISS, n8n, scikit-learn, OpenCV, SQLite
+### AI i uczenie maszynowe
+OpenAI API, Gemini, FAISS, sentence-transformers, n8n, scikit-learn, XGBoost, OpenCV
 
-**Testy i środowisko:** pytest, Vitest, Docker
+### Dane i analiza
+NumPy, Pandas, SQLite, Matplotlib, Seaborn, Jupyter
+
+### Testy i środowisko
+pytest, Vitest, Docker, Git, Conda, DigitalOcean
 
 ## Projekty
 
