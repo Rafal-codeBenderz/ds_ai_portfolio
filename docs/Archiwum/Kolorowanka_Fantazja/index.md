@@ -1,5 +1,7 @@
 # Kolorowanka_Fantazja
 
+*Archiwum — ćwiczenie sprzed aktualizacji portfolio.*
+
 Zapraszam do odkrycia aplikacji „Kolorowanka”! Dzięki niej malowanie stanie się jeszcze przyjemniejsze i bardziej kreatywne. Wystarczy, że wpiszesz w polu tekstowym to, co chcesz namalować, a nasza zaawansowana sztuczna inteligencja zaproponuje Ci kilka unikalnych propozycji. To idealny sposób na rozwijanie swojej wyobraźni i tworzenie wyjątkowych dzieł sztuki. Dołącz do naszej twórczej społeczności i zacznij swoją artystyczną przygodę z „Kolorowanką”!
 
 **Technologie i Narzędzia Wykorzystane**:

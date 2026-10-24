@@ -1,6 +1,8 @@
 
 # Analiza Danych – Titanic (EDA)
 
+*Archiwum — ćwiczenie sprzed aktualizacji portfolio.*
+
 W ramach eksploracyjnej analizy danych pasażerów Titanica, dążyłem do zidentyfikowania czynników, które miały wpływ na przeżycie podczas tragedii. Zestaw danych obejmuje informacje takie jak płeć, wiek, klasa podróży, powiązania rodzinne na pokładzie oraz miejsce zaokrętowania. Analiza obejmowała wstępne czyszczenie danych, tworzenie wizualizacji oraz porównania między różnymi grupami pasażerów. Projekt ten pokazuje, jak dane historyczne mogą zostać wykorzystane do formułowania praktycznych wniosków i rozwijania analitycznej intuicji.
 
 <a href="titanic_analiza.ipynb" class="md-button md-button--primary">Pobierz Notebook z analizą Tytanica</a>

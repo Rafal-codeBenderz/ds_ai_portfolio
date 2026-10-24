@@ -1,32 +1,21 @@
 # Półmaraton
 
-Aplikacja internetowa, zaprojektowana dla pasjonatów biegania, umożliwia przewidywanie wyników półmaratońskich na podstawie danych użytkownika, takich jak płeć, wiek, czas i tempo biegu na 5 km.
+Wpisuujesz płeć, wiek i czas na 5 km. Aplikacja szacuje wynik na półmaratonie i dopisuje krótką rekomendację treningową.
 
-Główna funkcjonalność aplikacji opiera się na modelu regresji, który został zbudowany przy użyciu biblioteki PyCaret. Model ten został wytrenowany na danych z wrocławskich półmaratonów z lat 2023-2024. Po dokładnym oczyszczeniu i analizie danych dzięki eksploracyjnej analizie, stworzono skuteczny i niezawodny model predykcyjny.
+Model regresji jest na wynikach wrocławskich półmaratonów z 2023–2024, po czyszczeniu danych. Rekomendację tekstową składa GPT. Aplikacja była na DigitalOcean.
 
-**Technologie i Narzędzia Wykorzystane**:
+To starszy projekt — zostawiam go, bo są prawdziwe dane i był deploy. Dziś więcej czasu idzie w Tarcza i HistoryChat.
 
-- **Streamlit** – framework do tworzenia interaktywnych aplikacji webowych w Pythonie,
-- **Git** – system kontroli wersji i wdrażania,
-- **PyCaret** – biblioteka uczenia maszynowego stosowana do modelowania regresji,
-- **Conda** – zarządzanie środowiskiem i zależnościami,
-- **Visual Studio Code** – środowisko programistyczne,
-- **OpenAI GPT-4o** – model językowy do generowania spersonalizowanych rekomendacji treningowych,
-- **Langfuse** – monitorowanie zachowania AI i analiza zapytań,
-- **Python** – język programowania używany w projekcie,
-- **Matplotlib, Seaborn** – wizualizacja danych i porównania wyników,
-- **Pandas, NumPy** – przetwarzanie danych i analiza numeryczna,
-- **AWS (boto3)** – integracja z usługami chmurowymi,
-- **DigitalOcean App Platform** – środowisko hostingowe do wdrażania aplikacji,
-- **dotenv** – konfiguracja środowiska i zarządzanie kluczami API.
+## Stack
 
-*przykładowe zdjęcia:*
+Python, Streamlit, PyCaret, Pandas, OpenAI, DigitalOcean
 
-![Predictive App for Runners](photo_1.png)
+[Repozytorium](https://github.com/Rafal-codeBenderz/Maraton.git)
 
-![Predictive App for Runners](photo_2.png)
+*Przykładowe ekrany:*
 
-![Predictive App for Runners](photo_3.png)
+![Aplikacja półmaraton](photo_1.png)
 
+![Aplikacja półmaraton](photo_2.png)
 
-[Idź do Repozytorium ](https://github.com/Rafal-codeBenderz/Maraton.git)
+![Aplikacja półmaraton](photo_3.png)

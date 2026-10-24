@@ -1,63 +1,30 @@
-# Witaj na stronie portfolio
+# Rafał Benderz
 
-#### Nazywam się **Rafał Benderz**
+Buduję narzędzia z AI pod konkretną robotę, nie dema „chat z GPT”. Model szkicuje, człowiek zatwierdza. Jak nie ma ceny, godziny albo źródła — ma napisać że sprawdzi, nie zmyślać.
 
-Cześć! Jestem Rafał Benderz, entuzjastą Data Science, która z zaangażowaniem rozwija swoje umiejętności w zakresie tworzenia modeli sztucznej inteligencji oraz analizy danych. Serdecznie zapraszam do odkrycia moich projektów, które harmonijnie łączą język Python, nowoczesne techniki uczenia maszynowego oraz interaktywne aplikacje webowe. Moje portfolio to zbiór prac powstałych dzięki ciekawości, praktycznym doświadczeniom i zastosowaniu wiedzy do rozwiązywania rzeczywistych problemów. Życzę miłych wrażeń podczas przeglądania!
+Zrobiłem to w **[Tarczy](Aplikacje/Tarcza/index.md)** (lada, SMS, tabela zamówienia, HITL, n8n) i w **[HistoryChat](Aplikacje/HistoryChat/index.md)** (24 postaci, odpowiedź z plików przez RAG / FAISS, jak brak fragmentu — odmowa). Obok tego własne, niepubliczne eksperymenty ML: obraz, cechy, ewaluacja. Wiem, że ładny wynik na teście to nie to samo co wartość w robocie. Wcześniej: **[Maraton](Aplikacje/Maraton/index.md)** — predykcja czasu na danych z Wrocławia, był deploy.
 
-## Trochę o mnie.
+Nie mam etatu w IT ani wdrożenia u klienta na serwerze. To własne projekty od 2025, plus kurs (prompty, n8n, skille). Nie ukrywam. Na spotkaniu odpalę Tarcza albo HistoryChat i pokażę, bez slajdów.
 
-Jestem początkującym Data Scientist oraz pasjonatem sztucznej inteligencji, z 3-miesięcznym doświadczeniem w tworzeniu indywidualnych i złożonych projektów, które opierają się na analizie danych i budowie modeli uczenia maszynowego. Realizuję rozwiązania, które wywierają realny wpływ, tak jak moja aplikacja "Maraton", która prognozuje wyniki półmaratonów. Moje działania charakteryzują się ciekawością, uporządkowaną strukturą i twórczym podejściem. Szczególnie upodobałem sobie tworzenie interaktywnych aplikacji, które nie tylko działają efektywnie, ale również są przyjazne dla użytkownika i estetycznie wykonane.
+Najchętniej składam szybko działający kawałek i ucinam to, czego nie potrzeba. Jak nie wiem po co, pytam, zamiast dokładać kod. Recenzję biorę; nie bronię pliku dla zasady. Szukam współpracy przy AI, automatyzacji i danych — od zaraz. Stawkę chętnie ustalę, jak będzie widać, co wnoszę.
 
-Mam ogromną pasję do analizy danych. Zapraszam do zapoznania się z moimi pracami nad zestawami danych "Irysy" i "Titanic", które stworzyłem z prawdziwą przyjemnością. Zanurzanie się coraz głębiej w te projekty pozwoliło mi odkrywać ukryte informacje i zrozumieć, jak można wydobywać znaczące dane z pozornie zwykłych tabel. Dla mnie, to coś więcej niż praca – to prawdziwa pasja.
+Praca zdalna, Polska.
 
-Uczenie maszynowe także stało się jedną z moich głównych pasji. Praca nad aplikacją "Maraton" oraz analiza projektów innych osób pomogły mi zrozumieć różnorodność podejść do budowy modeli i różne aspekty, na których skupiają się inni, pracując z danymi. To doświadczenie pokazało mi, jak ten sam zestaw danych może być interpretowany na wiele sposobów, prowadząc do coraz doskonalszych rozwiązań. Z niecierpliwością czekam na nowe zestawy danych, aby móc dalej tworzyć i rozwijać swoje umiejętności w tym fascynującym obszarze.
+## Projekty
 
-## 🛠️ Narzędzia i Technologie, z Którymi Pracuję
+| Projekt | O co chodzi |
+|---|---|
+| [Tarcza](Aplikacje/Tarcza/index.md) | Wklejka SMS → szkic odpowiedzi, tabela zamówienia, „co wisi”. Nic nie leci do klienta samo. |
+| [HistoryChat](Aplikacje/HistoryChat/index.md) | Czat z 24 postaciami. Odpowiedź z lokalnych źródeł (RAG / FAISS). Jak brak fragmentu — odmowa. |
+| [Maraton](Aplikacje/Maraton/index.md) | Predykcja czasu półmaratonu na danych z Wrocławia + rekomendacja treningowa. |
 
-Współczesne projekty Data Science wymagają wykorzystania wielu nowoczesnych narzędzi, które ułatwiają analizę danych, rozwijanie modeli oraz prezentację wyników. Oto zestaw narzędzi i bibliotek, które wykorzystuję:
+Starsze ćwiczenia z kursu (Iris, Titanic, Kolorowanka) są w [archiwum](Archiwum/index.md).
 
-### 📚 Analityka Danych i Przetwarzanie
+## Narzędzia
 
-- **Python**: Podstawowy język, zapewniający dużą elastyczność w projektach.
-- **NumPy**: Umożliwia efektywne operacje na macierzach i obliczenia numeryczne.
-- **Pandas**: Pozwala na przejrzystą i skuteczną obróbkę danych tabelarycznych.
-- **Pandera**: Używany do walidacji danych wejściowych, zapewniając integralność.
-- **faker**: Generuje dane testowe przydatne w prototypowaniu.
-- **Ydata-profiling**: Szybko analizuje dane, oferując wgląd w strukturę tabel.
+Python, TypeScript, React, Flask, FastAPI, Streamlit, SQLite, OpenAI API, Gemini, FAISS, n8n, scikit-learn, OpenCV, Docker, pytest, Vitest
 
-### 🤖 Algorytmy i Sztuczna Inteligencja
-
-- **Scikit-learn**: Zawiera klasyczne algorytmy uczenia maszynowego.
-- **Whisper**: Służy do rozpoznawania mowy i transkrypcji audio.
-- **OpenAI API**: Umożliwia dostęp do zaawansowanych modeli językowych.
-- **Langfuse**: Monitoruje i testuje aplikacje wykorzystujące modele językowe.
-
-### 📊 Wizualizacja Danych
-
-- **Matplotlib**: Tworzy podstawowe wykresy i wizualizacje danych.
-- **Seaborn**: Umożliwia tworzenie estetycznych wykresów z prostym kodem.
-- **Streamlit**: Sprzyja szybkiemu prototypowaniu aplikacji interaktywnych.
-
-### 📒 Notebooki i Środowiska Pracy
-
-- **Jupyter Notebook**: Integruje eksperymenty, analizy i raporty w jednym miejscu.
-- **Conda**: Zarządza środowiskami Python i ich zależnościami.
-- **Obsidian**: Pomaga tworzyć połączone notatki, działając jak "drugi mózg".
-- **md5**: Generuje skróty plików, wspomagając ich walidację i porównanie.
-
-### ☁️ Rozwiązania Chmurowe i Backendowe
-
-- **Qdrant**: Wysoko wydajna baza dla wyszukiwania treści semantycznych.
-- **Digital Ocean Spaces**: Przechowuje dane w chmurze jako alternatywa dla AWS S3.
-- **Digital Ocean Apps**: Ułatwia szybkie wdrażanie aplikacji webowych.
-- **PyDub**: Realizuje konwersję i przetwarzanie plików audio.
-
-### 🗂️ Zarządzanie Projektami i Współpraca
-
-- **GitHub**: Służy do zarządzania wersjami kodu i współpracy w zespołach.
-- **Trello**: Pomaga w organizacji zadań i planowaniu projektów w stylu kanban.
-
-## Kontakt. 
+## Kontakt
 
 📧 Email: [rafabenderz@gmail.com](mailto:rafabenderz@gmail.com)
 

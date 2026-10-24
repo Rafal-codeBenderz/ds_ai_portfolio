@@ -1,6 +1,8 @@
 
 # Analiza Danych – Irysy (EDA)
 
+*Archiwum — ćwiczenie sprzed aktualizacji portfolio.*
+
 Przeprowadziłem analizę eksploracyjną danych (EDA) dotyczącą irysów, koncentrując się na zrozumieniu relacji między różnymi cechami tych roślin. Projekt zawiera wizualizacje, wnioski i obserwacje, które ujawniają, jak bogate informacje można wydobyć z tego klasycznego zestawu danych.
 
 

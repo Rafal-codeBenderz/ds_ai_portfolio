@@ -1,8 +1,8 @@
-site_name: Moje projekty
+site_name: Rafał Benderz
 site_author: Rafał Benderz
 site_url: https://Rafal-codeBenderz.github.io/ds_ai_portfolio
 site_description: >-
-    Portfolio moich wspaniałych projektów z Data Science i AI!
+    Narzędzia AI z hamulcami: Tarcza, HistoryChat, Maraton.
 repo_name: Rafal-codeBenderz/ds_ai_portfolio
 repo_url: https://github.com/Rafal-codeBenderz/ds_ai_portfolio
 
@@ -12,10 +12,12 @@ theme:
     primary: blue
 
 nav:
-  - 🏠 Start: index.md
-  - 📊 Analizy: 
-     -  Iris: Analizy/Iris/index.md   
-     -  Titanic: Analizy/Titanic/index.md
-  - 💻 Aplikacje: 
-      -  Półmaraton: Aplikacje/Maraton/index.md
-      -  Kolorowanka_Fantazja: Aplikacje/Kolorowanka_Fantazja/index.md
+  - Start: index.md
+  - Tarcza: Aplikacje/Tarcza/index.md
+  - HistoryChat: Aplikacje/HistoryChat/index.md
+  - Maraton: Aplikacje/Maraton/index.md
+  - Archiwum:
+      - O archiwum: Archiwum/index.md
+      - Kolorowanka: Archiwum/Kolorowanka_Fantazja/index.md
+      - Iris: Archiwum/Iris/index.md
+      - Titanic: Archiwum/Titanic/index.md
