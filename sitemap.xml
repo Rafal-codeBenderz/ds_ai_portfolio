@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://Rafal-codeBenderz.github.io/ds_ai_portfolio/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2026-10-24</lastmod>
     </url>
     <url>
-         <loc>https://Rafal-codeBenderz.github.io/ds_ai_portfolio/Analizy/Iris/</loc>
-         <lastmod>2025-07-14</lastmod>
-    </url>
-    <url>
-         <loc>https://Rafal-codeBenderz.github.io/ds_ai_portfolio/Analizy/Titanic/</loc>
-         <lastmod>2025-07-14</lastmod>
-    </url>
-    <url>
-         <loc>https://Rafal-codeBenderz.github.io/ds_ai_portfolio/Aplikacje/Kolorowanka_Fantazja/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <loc>https://Rafal-codeBenderz.github.io/ds_ai_portfolio/Aplikacje/HistoryChat/</loc>
+         <lastmod>2026-10-24</lastmod>
     </url>
     <url>
          <loc>https://Rafal-codeBenderz.github.io/ds_ai_portfolio/Aplikacje/Maraton/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2026-10-24</lastmod>
+    </url>
+    <url>
+         <loc>https://Rafal-codeBenderz.github.io/ds_ai_portfolio/Aplikacje/Tarcza/</loc>
+         <lastmod>2026-10-24</lastmod>
+    </url>
+    <url>
+         <loc>https://Rafal-codeBenderz.github.io/ds_ai_portfolio/Archiwum/</loc>
+         <lastmod>2026-10-24</lastmod>
+    </url>
+    <url>
+         <loc>https://Rafal-codeBenderz.github.io/ds_ai_portfolio/Archiwum/Iris/</loc>
+         <lastmod>2026-10-24</lastmod>
+    </url>
+    <url>
+         <loc>https://Rafal-codeBenderz.github.io/ds_ai_portfolio/Archiwum/Kolorowanka_Fantazja/</loc>
+         <lastmod>2026-10-24</lastmod>
+    </url>
+    <url>
+         <loc>https://Rafal-codeBenderz.github.io/ds_ai_portfolio/Archiwum/Titanic/</loc>
+         <lastmod>2026-10-24</lastmod>
     </url>
 </urlset>
